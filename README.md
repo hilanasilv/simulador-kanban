@@ -1,4 +1,4 @@
-<h1>Simulator Télos Nível 5 - .NET com C# 🚀</h1>
+<h1 align="center">Simulator Télos Nível 5 - .NET com C# 🚀</h1>
 
 
 Este é um sistema simples de gerenciamento de tarefas estilo Kanban, que simula a organização de atividades dentro de uma equipe de desenvolvimento. O sistema permite adicionar tarefas, movê-las entre listas de status ("A fazer", "Em progresso" e "Concluído") e visualizar o estado atual das tarefas em cada uma dessas listas. A aplicação é interativa e executada via console.
@@ -37,7 +37,7 @@ Ao iniciar o sistema, o usuário é apresentado com um menu contendo as seguinte
 ## Requisitos
 Para rodar este sistema, é necessário um ambiente de desenvolvimento com suporte a execução de programas em C#.
 
-## Como Executar
+### Como Executar
 
 1. **Clone o repositório** ou baixe os arquivos do projeto.
    
