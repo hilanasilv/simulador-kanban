@@ -1,0 +1,4 @@
+# Pastas de build
+bin/
+obj/
+.vs/
